@@ -1,6 +1,5 @@
 # Intro. to Operating Systems - Course Projects 
 
-**Instructor:** Prof. Shuo-Han Chen
 **Platform:** Nachos (Not Another Completely Heuristic Operating System)
 
 ## Repository Overview
